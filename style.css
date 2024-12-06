@@ -1,0 +1,49 @@
+h1 {
+    color: green;
+    font-style: Arial;
+    font-size: 50px;
+    font-style: bold; 
+    font-style: italic;
+   
+}
+
+h2 {
+    color: black;
+    font-size: black 90px;
+    font-style: italic;
+}
+
+.content {
+    max-width: 1000px;
+    margin:auto;
+}
+p {
+    color: black;
+    font-size: 20px
+}
+
+.hero{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.body {
+    background: fixed;
+    background-color: aquamarine;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.ruthie {
+    height: 200px;
+    width: 200px;
+}
